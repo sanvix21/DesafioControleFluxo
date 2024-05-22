@@ -10,7 +10,7 @@ public class ExemploRepeticao {
         // Imprimindo os números de 1 a 5 usando um loop for
         for (int i = 1; i <= 5; i++) {
             System.out.println(i);
-        }
+        } 
     }
 }
 
